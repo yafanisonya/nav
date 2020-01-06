@@ -25,6 +25,15 @@ img{
 /* style */
 body{
   background-color:#EEE;
+  min-width: 100vw;
+  min-height: 100vh;
+  padding:1px;
+  background-image: url(images/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-position: center 0;
 }
 .globalHeader{
   margin:20px;
